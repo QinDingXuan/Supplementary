@@ -1,0 +1,4 @@
+ECG_SourceFile filter=lfs diff=lfs merge=lfs -text
+FMNIST_SourceFile filter=lfs diff=lfs merge=lfs -text
+readme.docx filter=lfs diff=lfs merge=lfs -text
+CIFAR10_SourceFile filter=lfs diff=lfs merge=lfs -text
