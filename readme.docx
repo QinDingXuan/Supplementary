@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db4a7534da689cfc4200908cc1e82bc84cf536aa800f6cb801bc263dcbf10a73
-size 10760
+The three folders contain the code and dataset for the corresponding classification task. Additionally, please ensure that your device contains a GPU and that Matlab can utilize it for AI acceleration.
